@@ -14,7 +14,7 @@
 ---> Example
 
 output of chess_grid,py for specific image
-activeColor = "b" for black
+
 
 
 
@@ -34,6 +34,7 @@ activeColor = "b" for black
 
 output of chess_analysis.py
 
+## activeColor = "b" for black (param at chess_board_analysis())
 
 
 
