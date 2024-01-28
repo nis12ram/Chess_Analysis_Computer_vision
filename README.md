@@ -13,6 +13,14 @@
 
 ---> Example
 
+input is image and model built using yolo v8
+
+![img7](https://github.com/nis12ram/Chess_Analysis_Computer_vision/assets/145199311/a64ef1d0-f58b-4010-b221-4284ad9b6170)
+
+
+
+
+
 output of chess_grid,py for specific image
 
 
