@@ -13,4 +13,5 @@
 
 ---> Example
 
-![Uploading Screenshot 2024-01-28 115931.png…]()
+![Screenshot 2024-01-28 115931](https://github.com/nis12ram/Chess_Analysis_Computer_vision/assets/145199311/7fb40bab-146f-41e2-a667-93be1a00ef5b)
+
