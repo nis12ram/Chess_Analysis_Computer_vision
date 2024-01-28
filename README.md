@@ -7,7 +7,7 @@
 
 ---> the dataset is collected from game name (Chess-Play vs Computer) all images is based on 2D chess board (the dataset is very limited and the model will only able to inetrprate images from these games with 2d structire )
 
-## In Image white pieces(rank 1 and rank2 ) should be at bottom side of image and black pieces(rank 7 and rank 8) should be at top side side of Image (the model logic is based on these condition also to note)
+## In Image white pieces(rank 1 and rank2 ) should be at bottom side of image and black pieces(rank 7 and rank 8) should be at top side side of Image (ULtra Imp Note: the model logic is based on these condition )
 
 
 
