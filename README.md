@@ -13,5 +13,7 @@
 
 ---> Example
 
+output of chess_grid,py for specific image
 ![Screenshot 2024-01-28 115931](https://github.com/nis12ram/Chess_Analysis_Computer_vision/assets/145199311/7fb40bab-146f-41e2-a667-93be1a00ef5b)
 
+![Screenshot 2024-01-28 120652](https://github.com/nis12ram/Chess_Analysis_Computer_vision/assets/145199311/0bc57d53-f799-45d6-b7ad-b490c4a35cdb)
